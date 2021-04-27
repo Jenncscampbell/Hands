@@ -1,0 +1,341 @@
+{
+    "frames": {
+        "video-config": {
+            "kind": "exp-video-config",
+            "troubleshootingIntro": "If you're having any trouble getting your webcam set up, please feel free to contact the Infant Studies Centre at 604-822-6408 or email us at infants@psych.ubc.ca"
+        },
+        "video-consent": {
+            "kind": "exp-lookit-video-consent",
+            "template": "consent_005",
+            "PIName": "Dr. Janet F. Werker",
+            "institution": "University of British Columbia",
+            "PIContact": "Dr. Janet F. Werker at jwerker@psych.ubc.ca",
+            "purpose": "There is evidence that infants understand words even earlier than once thought. Here, we explore 6-month-old infants’ understanding of words that are typically used as a label for multiple items of the same kind (e.g., hand) versus words that are typically used to label individuals (e.g., Mommy).",
+            "procedures": "This is Part 1 of a two-part study. Part 1 may only be completed by mothers with 6-month-old babies. First, you will provide verbal consent to participate by recording a video following steps 2 through 4 on the right side of this page (please make sure you read the entire consent form before doing so!). Then, the study will proceed, which involves recording a few brief video clips of yourself and of your baby’s hand. Next, you will be asked to provide your e-mail address (which we will use to send you Part 2 of the study and to match your questionnaire responses) and to click a link to complete a questionnaire about your baby’s language background and vocabulary. This questionnaire is on the “Qualtrics” platform, hosted by the University of British Columbia in Canada. We will use the video clips you record in this Part 1 to create Part 2 of the study, which will be customized for you and your baby to participate in on another day. Within a week, we will e-mail you a link to a unique version of Part 2 on Lookit, which will be password-protected such that only you may access it.",
+            "risk_statement":"There are no known risks to participating in studies like ours where your child is accompanied by you. The procedure used in this study has been shown to be safe.",
+            "payment": "While there are no direct benefits, many families enjoy participating in these activities. After we complete the study, you will be able to access any resulting publications on our website and see what you and your child helped us find out about speech and language development. Our annual newsletter can also be found on our website <a href='https://infantstudies.psych.ubc.ca/' target='_blank'>https://infantstudies.psych.ubc.ca/</a>. To thank you for your time, upon completion of both parts of the study, we will send a $10 e-gift card to Amazon to the e-mail address you provide.",
+            
+            "include_databrary": false,
+            "additional_video_privacy_statement": "<b>Important: Video Release!</b> <Br> Consent to participate in this study involves consent to ‘release’ the videos you record in Part 1 (of yourself and of your baby’s hand) for two purposes. (1) In order to integrate your video recordings into Part 2 of the study, we will store the videos in a repository on our Centre’s website <a href='https://infantstudies.psych.ubc.ca/' target='_blank'>https://infantstudies.psych.ubc.ca/</a>. This repository is not linked to within the website and would not appear in google searches. This is necessary because Lookit accesses files on public webpages to display in studies. Upon your participation in Part 2 (or until the participation link expires, whichever comes first), we will delete your videos from the repository. (2) Secondly, we may integrate your videos into Part 2 of the study that we create for another family. For example, in Part 2, your baby will see a photo of you alongside a photo of another mom, while hearing the word “Mommy”. If you would not consent to release of the videos you record in Part 1, we completely understand; in that case, please exit the study now. We have other studies available that do not involve video release and would be delighted for you to participate in those. <Br><Br>Please note that ‘release’ of the videos for storage our Centre’s website and for display in Part 2 for other families is separate from the privacy level you select for the videos stored on Lookit (in the previous section above).",
+            
+
+            "gdpr": false,
+            "research_rights_statement": "If you have any concerns or complaints about your rights as a research participant and/or your experiences while participating in this study, contact the Research Participant Complaint Line in the UBC Office of Research Ethics at 604-822-8598 or if long distance e-mail RSIL@ors.ubc.ca or call toll free 1-877-822-8598 (Ethics file no. H20-03036).",
+        
+            "additional_segments": [
+                {
+                    "text": "At the end of the study, you will be asked to complete a survey via the Qualtrics online platform (hosted by the University of British Columbia in Canada) about your child's language exposure and vocabulary.",
+                    "title": "Questionnaire"
+                },
+                {
+                    "text": "Lookit is a U.S. organization and all information gathered from the website is stored on servers based in the U.S. Therefore, your video recordings are subject to U.S. laws, such as the US Patriot Act. This act allows authorities access to the records of internet service providers. If you choose to participate in this study, you understand that your video recording will be stored and accessed in the USA. The security and privacy policy for Lookit can be found at the following link: <a href='https://lookit.mit.edu/privacy/' target='_blank'>https://lookit.mit.edu/privacy/</a>.",
+                    "title": "US Patriot Act Disclosure"
+                },
+                {
+                    "text": "If, upon review of your stored video, a researcher were to observe or hear of an incident involving abuse and/or neglect of a child, please be advised that the researcher must, by law, report this information to the appropriate authorities.",
+                    "title": "Child Protection Disclosure"
+                },
+                {
+                    "text": "To comply with guidelines from research funders and journal publications, electronic research data in data sheets from this study may be shared publicly. The shared data sheets will not contain information that can be used to identify you or your child. Once this dataset is made publicly available, you will not be able to withdraw your consent to sharing the data.",
+                    "title": "Data sharing"
+                }
+            ]
+            
+            
+        },
+        "study-intro": {
+            "blocks": [
+                              {
+                    "emph": true,
+                    "text": "\n\n Welcome! This is part 1 of a 2-part study!",
+                    "title": "Important: your child does not need to be with you for the entire duration of this set-up portion. However, we will need them to be present for a short portion later. Let's go over what will happen!"
+                },
+                {
+                    "text": "To be eligible for this study, your child must be regularly hearing 30%-100% English."
+                    
+                },
+                {
+                    "text": "In this session, we will collect videos clips from you and be asking you to complete a questionnaire. The videos and information you provide will be used to build part 2 of your personalized study."
+                },
+                {
+                    "text": "We are interested in how young children learn words for individuals and categories. In this study, we will be measuring your child's understanding of the label for you (e.g. \"Mommy\"), and the word for something more general, like \"hand\". To do this, we will ask for you to record a video of you (your baby's mom), and a video of your infant's hand. In the questionnaire, we will be asking you which labels your child is most familiar with. Part 1 of the study will take about 20 to 25 minutes to complete."
+                }, 
+                {
+                    "text": "Within 7 days of completing Part 1, you will receive an email inviting you and your baby to Part 2 of the study. In Part 2, we will take clips from these videos to be incorporated into a personalized study for your child. You will have a chance to preview part 2 shortly. Part 2 takes 5 to 10 minutes to complete. Upon finishing both parts of the study, you will receive a $10 Amazon gift card!"
+                }
+            ],
+            "showPreviousButton": false,
+            "kind": "exp-lookit-text"
+        },
+        "video-preview": {
+            "kind": "exp-lookit-stimuli-preview",
+            "stimuli": [
+                {
+                    "caption": "Part 2 of the study has two blocks, one where we assess your child's understanding of the label for their mom and one where we assess their understanding of the word \"Hand\". In the \"mom\" block, your child will see a video of you paired with either a dog or another woman while hearing the label for you. In the \"hand\" block, your child will view their own hand paired with another infant's hand or with a foot while hearing the word \"hand\". These two blocks will appear in random order. Here's an example.",
+                    "video": "Preview"
+                }
+            ],
+            "baseDir": "https://raw.githubusercontent.com/jwlabmgr/hands/main/",
+            "videoTypes": [
+                "webm",
+                "mp4"
+            ],
+            "blocks": [
+                {
+                    "text": "If you'd like to see an example of a video similar to the one your child will be shown in Part 2, you can take a look ahead of time now. It's important that you watch this video without your child, so that the videos will still be new to them later. The mom and hand shown here are only examples in your study, your infant will see a video of you (your baby's mom) and their own hand."
+                }
+            ],
+            "skipButtonText": "Skip preview",
+            "previewButtonText": "Preview a video (my child can't see the screen)",
+            "showPreviousButton": false
+        },
+        "final-instructions": {
+            "kind": "exp-lookit-instructions",
+            "blocks": [
+                {
+                    "title": "Instructions"
+                },
+                {
+                    "title": "Video recording guide:",
+                    "listblocks": [
+                        {
+                            "text": "In the following portion, you will be asked to record a few video clips. We will then take a still-frame or photo from each of these videos you film, so that we can incorporate it into a personalized version for your child to see in the second part of this study."
+                        },
+                        {
+                            "text": "Feel free to re-record yourself at each stage if you are not happy with the clip. We will be taking clips from the middle segment of the recordings so please don't worry if the beginning or end show you moving to start or stop the recording."
+                        },
+                        {
+                            "text": "To end the study early, you may press Control-X and you should see an 'exit' option pop up. You’ll be prompted to note any technical problems you might be experiencing and to select a privacy level for your videos."
+                        }
+                    ]
+                }
+            ],
+            "nextButtonText": "Next"
+        },
+        "email-survey": {
+            "kind": "exp-lookit-survey",
+            "formSchema": {
+                "schema": {
+                    "type": "object",
+                    "title": "Information for Part 2",
+                    "properties": {
+                        "email": {
+                            "type": "string",
+                            "title": "We will be using your email address to link your questionnaire data to your Lookit account and invite you to part 2 of the study. Please enter your email address here: ",
+                            "required": true
+                        },
+                        "Name": {
+                            "type": "string",
+                            "title": "In part 2, we will use the label for the child's mother that is most familiar to them (e.g. \"Mommy\", \"Mama\"). Please the label being used most often for the child's mother: ",
+                            "required": true
+                        }
+                    }
+                },
+                "options": {
+                    "fields": {
+                        "langChoice": {
+                            "type": "radio",
+                            "message": "Please answer this question.",
+                            "validator": "required-field"
+                        }
+                    }
+                }
+            },
+            "nextButtonText": "Continue",
+            "showPreviousButton": false
+        },
+        "instructions-mom": {
+            "kind": "exp-lookit-instructions",
+            "blocks": [
+                {
+                    "title": "Instructions to record mom",
+                    "listblocks": [
+                        {
+                            "text": "In the next part, you will record a 10-second clip of yourself (the child's mother)."
+                        },
+                        {
+                            "text": "This will be a silent clip. We ask that, similar to taking a passport or driving license photo, that you don't smile and have a neutral expression. The video will be cropped to only your face and shoulders. We also ask that you wear a dark, solid coloured top, such as a black or dark grey shirt. The background should be a solid colour, such as a wall."
+                        },
+                        {
+                            "text": "We will be taking a still-frame from this video recording and incorporate it in the study."
+                        },
+                        {
+                            "text": "Please take a look at the example video below."
+                        }
+                    ]
+                },
+                
+                {
+                    "title": "Here's an example video!",
+                    "mediaBlock": {
+                        "isVideo": true,
+                        "sources": [
+                            {
+                                "src": "https://raw.githubusercontent.com/jwlabmgr/hands/main/mp4/momvid.mp4",
+                                "type": "video/mp4"
+                            }
+                        ],
+                        "mustPlay": true,
+                        "warningText": "Please try playing the sample video."
+                    }
+                }
+            ],
+            
+            "nextButtonText": "Next"
+        },
+        "observation-mom1": {
+            "kind": "exp-lookit-observation",
+            "blocks": [
+                {
+                    "title": "Recording of Mom",
+                    "listblocks": [
+                        {
+                            "text": "Here you will record a 10-second clip of yourself (the child's mother)."
+                        },
+                        {
+                            "text": "This will be a silent clip. We ask that, similar to taking a passport or driving liscense photo, that you don't smile and have a neutral expression. The video will be cropped to only your face and shoulders. We also ask that you wear a dark, solid coloured top, such as a black or dark grey shirt. The background should be a solid colour, such as a wall."
+                        },
+                        {
+                            "text": "We will be taking a still-frame from this video recording and incorporate it in the study."
+                        },
+                        {
+                            "image": {
+                                "src": "https://raw.githubusercontent.com/jwlabmgr/hands/main/img/face1.png"
+                            }
+                        }
+                    ]
+                }
+            ],
+            "hideWebcam": false,
+            "hideControls": false,
+            "recordSegmentLength": 10,
+            "startRecordingAutomatically": false,
+            "nextButtonText": "move on",
+            "showPreviousButton": false,
+            "recordingRequired": true
+        },
+        "instructions-hand": {
+            "kind": "exp-lookit-instructions",
+            "blocks": [
+                {
+                    "title": "Instructions to record your infant's hand",
+                    "listblocks": [
+                        {
+                            "text": "Here you will record a 10-second clip of the back of your child's <b>right hand</b>."
+                        },
+                        {
+                            "text": "The most important thing is that the fingers need to be out stretched - their hand can't be in a closed fist or tightly curled."
+                        },
+                        {
+                            "text": "A good method we have seen in the past is to have the child on your lap, and with one hand hold a piece of paper between your palm and the child’s palm and then to use your other hand to hold the child’s forearm. A lot of children like to make a fist or scratch at the paper and using this method seems easiest to get their hand to lay flat."
+                        },
+                        {
+                            "text": "We will be taking a clear still-frame image from this showing the infant's right hand and wrist. So please hold your infant's forearm and don't worry if your child is squirmy."
+                        },
+                        {
+                            "text": "Please take a look at the example video below."
+                        }
+                    ]
+                },
+                {
+                    "title": "Here's an example video!",
+                    "mediaBlock": {
+                        "isVideo": true,
+                        "sources": [
+                            {
+                                "src": "https://raw.githubusercontent.com/jwlabmgr/hands/main/mp4/handvid.mp4",
+                                "type": "video/mp4"
+                            }
+                        ],
+                        "mustPlay": true,
+                         "warningText": "Please try playing the sample video."
+                    }
+                }
+            ],
+            
+            "nextButtonText": "Next"
+        },
+        "observation-hand1": {
+            "kind": "exp-lookit-observation",
+            "blocks": [{
+                "title": "Recording of hand",
+                "listblocks": [{
+                        "text": "Here you will record a 10-second clip of the back of your child's <b>right hand</b>."
+                    },
+                    {
+                        "text": "The most important thing is that the fingers need to be out stretched - their hand can't be in a closed fist or tightly curled."
+                    },
+                    {
+                        "text": "A good method we have seen in the past is to have the child on your lap, and with one hand hold a piece of paper between your palm and the child’s palm and then to use your other hand to hold the child’s forearm. A lot of children like to make a fist or scratch at the paper and using this method seems easiest to get their hand to lay flat."
+                    },
+                    {
+                        "text": "We will be taking a clear still-frame image from this showing the infant's right hand and wrist. So please hold your infant's forearm and don't worry if your child is squirmy."
+                    },
+                    {
+                        "image": {
+                            "src": "https://raw.githubusercontent.com/jwlabmgr/hands/main/img/hand1.png"
+                        }
+                    }
+                ]
+            }
+            
+            ],
+            "hideWebcam": false,
+            "hideControls": false,
+            "recordSegmentLength": 10,
+            "startRecordingAutomatically": false,
+            "nextButtonText": "move on",
+            "showPreviousButton": false,
+            "recordingRequired": true
+        },
+        "qualt-link": {
+            "blocks": [
+                {
+                    "emph": true,
+                    "title": "For this final portion, your child does not need to be with you!"
+                },
+                {
+                    "text": "The last portion of this study is a questionnaire which will ask you about your child's language environment. <b>The completion of this questionnaire is necessary before we can send you Part 2 of the study!</b> Please click the link below to complete the questionnaire and then return to Lookit."
+                },
+                {
+                    "text": "(<a href='https://ubc.ca1.qualtrics.com/jfe/form/SV_3W5UtFds33DpxyJ' target='_blank'>Language and Background Questionnaire</a>.)"
+                },
+                {
+                    "text": ""
+                },
+                {
+                    "emph": true,
+                    "text": "Please do not close this window. Once you are done the questionnaire, click Next."
+                }
+            ],
+            "showPreviousButton": false,
+            "kind": "exp-lookit-text"
+        },
+        "exit-survey": {
+            "kind": "exp-lookit-exit-survey",
+            "debriefing": {
+                "text": "If you have completed the recordings and language questionnaire, then you are all done part 1 of our study! \n\n  You and your baby are helping us to better understand how infants are learning their earliest words! Recent research suggests that by 6-months, babies know a lot about words, including an understand of the meanings behind common words in their environment! In this study, we examined 6-month-olds' understanding of labels for individuals (like \"Mommy\") and labels for categories (like \"hand\"). Your participation in this study will help us understand whether there may be differences to how babies percieve word labels from different categories and whether hearing multiple languages influences their rate of learning.  \n\n Once you have completed the questionnaire, you may then close this window. You will be contacted within the next seven days with your link to Part 2! \n\n  To thank you for your participation, we will be emailing you a $10 Amazon gift card upon the completion of both parts of the study. If you don't hear from us within a week of completing Part 1, feel free to reach out to us! Each child can only participate once, but if you participate again with another child that falls within the age range, you will receive one gift card per child.",
+                "title": "Thank you for participating in our study!"
+            }, 
+            "additionalVideoPrivacyText": "As outlined in the consent, Part 2 of this study will involve your child viewing videos of you paired with another mother and still-images of their hand paired with another infant's hand. By consenting to this study you have agreed for us to use the silent video of you and the image of your infants' hand to be shown in Part 2 of the study. In addition to using it for your personalized study, we may use your images to be shown to other participants. If you do not wish for your videos/pictures to shown to any other participants in the study then please select the 'Withdrawal of video data' option below. This will withdraw you from the study and your videos will not be viewed by any participants or team members. Please select a privacy level for your video below. This covers any sharing of your video for purposes *besides* using it as part of this study."
+        }
+        
+    },
+    "sequence": [
+        
+        "study-intro",
+        "video-config",
+        "video-consent",
+        "email-survey",
+        "video-preview",
+        "final-instructions",
+       
+        "instructions-mom",
+        "observation-mom1",
+        "instructions-hand",
+        "observation-hand1",
+        "qualt-link",
+        "exit-survey"
+       
+    ]
+}
